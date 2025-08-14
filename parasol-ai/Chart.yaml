@@ -34,4 +34,7 @@ dependencies:
     repository: file://moderation
   - name: document-embedding
     version: 0.1.0
-    repository: file://document-embedding  
+    repository: file://document-embedding
+  - name: customer-support-ui
+    version: 0.1.0
+    repository: file://customer-support-ui  
