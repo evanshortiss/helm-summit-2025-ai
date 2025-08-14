@@ -31,8 +31,7 @@ service:
   portName: http
 
 route:
-  enabled: false
-  host:
+  enabled: true
   tlsEnabled: true
   tls:
     termination: edge
