@@ -8,6 +8,7 @@ dependencies:
   - name: amq-streams-operator
     version: 0.1.0
     repository: file://amq-streams-operator
+    condition: amq-streams-operator-install
   - name: amq-streams-console-operator
     version: 0.1.0
     repository: file://amq-streams-console-operator
